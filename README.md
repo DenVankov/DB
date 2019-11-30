@@ -3,4 +3,4 @@
 
 Тема: спортивные рекорды.
 Полезная информация:
-sql запросы(https://tproger.ru/translations/sql-recap/)
+[sql запросы]https://tproger.ru/translations/sql-recap/)
